@@ -1,0 +1,25 @@
+element.style {
+
+}
+
+header img {
+    width: 745px;
+    height: 245px;
+    border-radius: 5%;
+}
+
+img {
+    overflow-clip-margin: content-box
+    overflow: clip;
+}
+
+.center
+{
+    text-align: center;
+}
+
+body {
+    color: white;
+    background-color: black;
+    font-family: arial, helvetica, sans-serif;
+}
